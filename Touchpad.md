@@ -27,11 +27,15 @@ EndSection
 This should provide basic touchpad capabilities like two-finger scroll
 
 To add more function to touchpad, you can add synaptics driver options,
+
 Run `synclient` to see the options and values
+
 You can adjust the values to change touchpad behaviour
 
 My setting:
+
 `TapButton1=1` Tap touchpad with 1 finger  will create mouse-left-click
+
 `SingleTapTimeout=0` Tap will immediately create mouse-left-click
 
 You can change values to personalize your touchpad
