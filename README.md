@@ -3,3 +3,4 @@
 
 Things helpful to running linux on Lenovo Y510p
 
+[Touchpad Guide](Touchpad.md)
